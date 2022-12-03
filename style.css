@@ -1,0 +1,14 @@
+body{
+    background-color: lightskyblue;
+}
+
+#image-1.jpg {
+    border-radius: 80px;
+    border: 2px  rgb(148, 37, 252); 
+}
+
+.carousel-item img{ 
+    width: 50% !important;
+
+}
+
